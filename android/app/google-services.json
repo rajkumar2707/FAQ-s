@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "552044765272",
+    "firebase_url": "https://faq-s-82546-default-rtdb.firebaseio.com",
+    "project_id": "faq-s-82546",
+    "storage_bucket": "faq-s-82546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552044765272:android:7b86e5cf27bea14b87aa2d",
+        "android_client_info": {
+          "package_name": "com.faqs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXl6f0ZyS1lqhmOOBR0_2ANbJJib7TpkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
